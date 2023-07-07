@@ -352,11 +352,6 @@
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="collapse" href="#icons" aria-expanded="false" aria-controls="icons">
-              <i class="icon-contract menu-icon"></i>
-              <span class="menu-title">Icons</span>
-              <i class="menu-arrow"></i>
-            </a>
             <div class="collapse" id="icons">
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="pages/icons/mdi.html">Mdi icons</a></li>
@@ -373,19 +368,6 @@
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="pages/samples/login.html"> Login </a></li>
                 <li class="nav-item"> <a class="nav-link" href="pages/samples/register.html"> Register </a></li>
-              </ul>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="collapse" href="#error" aria-expanded="false" aria-controls="error">
-              <i class="icon-ban menu-icon"></i>
-              <span class="menu-title">Error pages</span>
-              <i class="menu-arrow"></i>
-            </a>
-            <div class="collapse" id="error">
-              <ul class="nav flex-column sub-menu">
-                <li class="nav-item"> <a class="nav-link" href="pages/samples/error-404.html"> 404 </a></li>
-                <li class="nav-item"> <a class="nav-link" href="pages/samples/error-500.html"> 500 </a></li>
               </ul>
             </div>
           </li>
@@ -436,7 +418,7 @@
                         <h2 class="mb-0 font-weight-normal"><i class="icon-sun mr-2"></i>31<sup>C</sup></h2>
                       </div>
                       <div class="ml-2">
-                        <h4 class="location font-weight-normal">ìˆ˜ì›ì‹œ</h4>
+                        <h4 class="location font-weight-normal">여기</h4>
                         <h6 class="font-weight-normal">ê²½ê¸°ë„</h6>
                       </div>
                     </div>
@@ -449,7 +431,7 @@
                 <div class="col-md-6 mb-4 stretch-card transparent">
                   <div class="card card-tale">
                     <div class="card-body">
-                      <p class="mb-4">Today'Â€Â™s Bookings</p>
+                      <p class="mb-4">Today???s Bookings</p>
                       <p class="fs-30 mb-2">4006</p>
                       <p>10.00% (30 days)</p>
                     </div>
@@ -1014,37 +996,6 @@
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-md-12 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <p class="card-title">Advanced Table</p>
-                  <div class="row">
-                    <div class="col-12">
-                      <div class="table-responsive">
-                        <table id="example" class="display expandable-table" style="width:100%">
-                          <thead>
-                            <tr>
-                              <th>Quote#</th>
-                              <th>Product</th>
-                              <th>Business type</th>
-                              <th>Policy holder</th>
-                              <th>Premium</th>
-                              <th>Status</th>
-                              <th>Updated at</th>
-                              <th></th>
-                            </tr>
-                          </thead>
-                      </table>
-                      </div>
-                    </div>
-                  </div>
-                  </div>
-                </div>
-
-                
-              </div>
-            </div>
         </div>
         <!-- content-wrapper ends -->
         <!-- partial:partials/_footer.html -->
