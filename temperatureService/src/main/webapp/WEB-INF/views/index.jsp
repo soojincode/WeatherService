@@ -421,8 +421,9 @@
                         <h2 class="mb-0 font-weight-normal"><i class="icon-sun mr-2"></i>31<sup>C</sup></h2>
                       </div>
                       <div class="ml-2">
-                        <h4 class="location font-weight-normal">여기</h4>
-                        <h6 class="font-weight-normal">ê²½ê¸°ë„</h6>
+                        <h4 class="location font-weight-normal">용인시</h4>
+                        <h6 class="font-weight-normal">우리 집</h6>
+                        <p>${serverTime}</p>
                       </div>
                     </div>
                   </div>
@@ -500,11 +501,12 @@
                 </div>
               </div>
             </div>
+            <!-- 막대그래프 시작 -->
             <div class="col-md-6 grid-margin stretch-card">
               <div class="card">
                 <div class="card-body">
                  <div class="d-flex justify-content-between">
-                  <p class="card-title">Sales Report</p>
+                  <p class="card-title">온도, 습도 월별 그래프</p>
                   <a href="#" class="text-info">View all</a>
                  </div>
                   <p class="font-weight-500">The total number of sessions within the date range. It is the period time a user is actively engaged with your website, page or app, etc</p>
