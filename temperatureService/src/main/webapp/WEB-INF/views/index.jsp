@@ -911,15 +911,6 @@
                             <p class="mb-0">992</p>
                           </div>
                         </div>
-                        <div class="mt-3">
-                          <p class="mb-0">Data 4</p>
-                          <div class="d-flex justify-content-between align-items-center">
-                            <div class="progress progress-md flex-grow-1 mr-4">
-                              <div class="progress-bar bg-info" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                            <p class="mb-0">687</p>
-                          </div>
-                        </div>
                       </div>  
                     </div>
                   </div>
